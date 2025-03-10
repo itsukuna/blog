@@ -31,7 +31,3 @@ This is a simple personal blog built using Flask. It includes the following feat
     ```bash
     pipenv run python main.py
     ```
-
-## Demo
-
-[Watch the demo](assets/demo.mp4)
